@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prince Thakur
 
 🚀 **Software Engineer | Full-Stack Developer | DSA & AI Enthusiast**      
-🎓 B.E. Computer Engineering @ SPPU | CGPA: **9.05**
+🎓 B.E. Computer Engineering @ SPPU | CGPA: **9.20**
 
 I’m passionate about building **real-world software**, solving **DSA problems**, and exploring **AI/ML & system-level concepts**.  
 Currently focused on writing **clean, efficient code** and contributing to **impactful projects & open source**.
