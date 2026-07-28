@@ -31,10 +31,10 @@ Currently focused on writing **clean, efficient code** and contributing to **imp
 <table>
 <tr align="center">
 <td>
-<img src="https://skillicons.dev/icons?i=python" width="60"/><br><b>Python</b>
+<img src="python.png" width="60"/><br><b>Python</b>
 </td>
 <td>
-<img src="https://skillicons.dev/icons?i=java" width="60"/><br><b>Java</b>
+<img src="java.png" width="60"/><br><b>Java</b>
 </td>
 <td>
 <img src="https://skillicons.dev/icons?i=c" width="60"/><br><b>C</b>
@@ -43,13 +43,13 @@ Currently focused on writing **clean, efficient code** and contributing to **imp
 <img src="https://skillicons.dev/icons?i=cpp" width="60"/><br><b>C++</b>
 </td>
 <td>
-<img src="https://skillicons.dev/icons?i=php" width="60"/><br><b>PHP</b>
+<img src="php.png" width="60"/><br><b>PHP</b>
 </td>
 <td>
 <img src="https://skillicons.dev/icons?i=ts" width="60"/><br><b>TypeScript</b>
 </td>
 <td>
-<img src="https://skillicons.dev/icons?i=kotlin" width="60"/><br><b>Kotlin</b>
+<img src="Kotlin.png" width="60"/><br><b>Kotlin</b>
 </td>
 </tr>
 </table>
@@ -80,11 +80,11 @@ Currently focused on writing **clean, efficient code** and contributing to **imp
 
 <table>
 <tr align="center">
-<td><img src="https://skillicons.dev/icons?i=django" width="60"/><br><b>Django</b></td>
+<td><img src="dj.png" width="60"/><br><b>Django</b></td>
 <td><img src="https://skillicons.dev/icons?i=fastapi" width="60"/><br><b>FastAPI</b></td>
 <td><img src="https://skillicons.dev/icons?i=laravel" width="60"/><br><b>Laravel</b></td>
 <td><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br><b>Node.js</b></td>
-<td>🌐<br><b>REST API</b></td>
+<td><img src="rest.png" width="60"/><br><b>REST API</b></td>
 </tr>
 </table>
 
@@ -105,6 +105,8 @@ Currently focused on writing **clean, efficient code** and contributing to **imp
 <td><img src="seaborn.png" width="60"/><br><b>Seaborn</b></td>
 <td><img src="scikitlearn.png" width="60"/><br><b>Scikit-Learn</b></td>
 <td><img src="nlp.jpg" width="60"/><br><b>NLP</b></td>
+<td><img src="tensorflow.png" width="60"/><br><b>TensorFlow</b></td>
+  
 </tr>
 </table>
 
@@ -117,9 +119,9 @@ Currently focused on writing **clean, efficient code** and contributing to **imp
 
 <table>
 <tr align="center">
-<td><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br><b>MySQL</b></td>
+<td><img src="mysql.png" width="60"/><br><b>MySQL</b></td>
 <td><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br><b>MongoDB</b></td>
-<td>🗃️<br><b>SQL</b></td>
+<td><img src="sql.png" width="60"/><br><b>SQL</b></td>
 </tr>
 </table>
 
@@ -155,9 +157,8 @@ Currently focused on writing **clean, efficient code** and contributing to **imp
 
 <details>
 <summary><b>🧠 Core Computer Science</b></summary>
-
 <br>
-
+  
 - 📘 Data Structures & Algorithms
 - 🧩 Problem Solving
 - 💻 Operating Systems
