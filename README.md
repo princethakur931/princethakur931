@@ -34,7 +34,7 @@ Currently focused on writing **clean, efficient code** and contributing to **imp
 <img src="python.png" width="100"/><br><b>Python</b>
 </td>
 <td>
-<img src="java.png" width="90"/><br><b>Java</b>
+<img src="java.png" width="75"/><br><b>Java</b>
 </td>
 <td>
 <img src="https://skillicons.dev/icons?i=c" width="60"/><br><b>C</b>
@@ -43,13 +43,13 @@ Currently focused on writing **clean, efficient code** and contributing to **imp
 <img src="https://skillicons.dev/icons?i=cpp" width="60"/><br><b>C++</b>
 </td>
 <td>
-<img src="php.png" width="100"/><br><b>PHP</b>
+<img src="php.png" width="70"/><br><b>PHP</b>
 </td>
 <td>
 <img src="https://skillicons.dev/icons?i=ts" width="60"/><br><b>TypeScript</b>
 </td>
 <td>
-<img src="Kotlin.png" width="100"/><br><b>Kotlin</b>
+<img src="Kotlin.png" width="80"/><br><b>Kotlin</b>
 </td>
 </tr>
 </table>
