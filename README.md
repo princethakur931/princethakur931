@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="coding.gif" alt="Coding Animation" width="800" height="400">
+</div>
+
 # 👋 Hi, I'm Prince Thakur
 
 🚀 **Software Engineer | Full-Stack Developer | DSA & AI Enthusiast**      
