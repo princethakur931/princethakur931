@@ -98,13 +98,13 @@ Currently focused on writing **clean, efficient code** and contributing to **imp
 <table>
 <tr align="center">
 <td><img src="numpy.png" width="60"/><br><b>NumPy</b></td>
-<td><img src="https://skillicons.dev/icons?i=pandas" width="60"/><br><b>Pandas</b></td>
-<td><img src="https://skillicons.dev/icons?i=pytorch" width="60"/><br><b>PyTorch</b></td>
-<td><img src="https://skillicons.dev/icons?i=opencv" width="60"/><br><b>OpenCV</b></td>
-<td>📊<br><b>Matplotlib</b></td>
-<td>📈<br><b>Seaborn</b></td>
-<td>🤖<br><b>Scikit-Learn</b></td>
-<td>💬<br><b>NLP</b></td>
+<td><img src="pandas.png" width="60"/><br><b>Pandas</b></td>
+<td><img src="pytorch.png" width="60"/><br><b>PyTorch</b></td>
+<td><img src="opencv.png" width="60"/><br><b>OpenCV</b></td>
+<td><img src="matplotlib.png" width="60"/><br><b>Matplotlib</b></td>
+<td><img src="seaborn.png" width="60"/><br><b>Seaborn</b></td>
+<td><img src="scikitlearn.png" width="60"/><br><b>Scikit-Learn</b></td>
+<td><img src="nlp.jpg" width="60"/><br><b>NLP</b></td>
 </tr>
 </table>
 
