@@ -97,7 +97,7 @@ Currently focused on writing **clean, efficient code** and contributing to **imp
 
 <table>
 <tr align="center">
-<td><img src="https://skillicons.dev/icons?i=numpy" width="60"/><br><b>NumPy</b></td>
+<td><img src="numpy.png" width="60"/><br><b>NumPy</b></td>
 <td><img src="https://skillicons.dev/icons?i=pandas" width="60"/><br><b>Pandas</b></td>
 <td><img src="https://skillicons.dev/icons?i=pytorch" width="60"/><br><b>PyTorch</b></td>
 <td><img src="https://skillicons.dev/icons?i=opencv" width="60"/><br><b>OpenCV</b></td>
