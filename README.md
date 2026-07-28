@@ -149,7 +149,6 @@ Currently focused on writing **clean, efficient code** and contributing to **imp
 <tr align="center">
 <td><img src="https://skillicons.dev/icons?i=vscode" width="60"/><br><b>VS Code</b></td>
 <td><img src="https://skillicons.dev/icons?i=postman" width="60"/><br><b>Postman</b></td>
-<td><img src="https://skillicons.dev/icons?i=git" width="60"/><br><b>Git</b></td>
 <td><img src="https://cdn.simpleicons.org/jupyter/F37626" width="60"/><br><b>Jupyter</b></td>
 </tr>
 </table>
